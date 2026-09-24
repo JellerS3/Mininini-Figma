@@ -1,3 +1,3 @@
-# Testiki
+# Mininini Figma
 
 Учебный проект
